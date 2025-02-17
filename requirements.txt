@@ -1,1 +1,1 @@
-To run this code properly you must install the numpy library. It helps when it comes to matrices and vectors in the later problems.
+To run this code properly you must install the numpy library. It helps when it comes to matrices and vectors in the later problems. 
